@@ -1,0 +1,79 @@
+.banner{
+        background-image: url(Melotte15NBStarsWeb3.jpg);
+        height: 100px;
+        width: 100%;
+        color: white;
+        margin: auto;
+        text-align: center;
+        padding-top: 25px;
+        font-family: 'Tangerine', serif;
+	font-size: 25px;
+}
+
+.current{
+	background-color:lightseagreen;
+}
+
+button{
+        margin-right: 15%;
+        text-align: center;
+}
+
+.status{
+        color: red;
+}
+
+input[type=text], input[type=password]{
+	width: 100%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: block;	
+}
+
+input[type=text]:focus, input[type=password]:focus {
+        background-color: #ddd;
+        outline: none;
+}
+
+.create_account{
+        padding: 16px;
+        font-family: 'Tangerine', serif;
+        font-size: 35px;
+}
+
+hr{
+	border: 1px solid #f1f1f1;
+	margin-bottom: 25px;
+}
+
+.signupbuttn{
+	background-color: blue;
+  	color: white;
+  	padding: 14px 20px;
+  	margin: 8px 0;
+  	border: none;
+  	cursor: pointer;
+  	width: 100%;
+  	opacity: 0.9;
+}
+
+.currentaccount{
+	background-color: red;
+	color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+        opacity: 0.9;
+} 
+
+h2{
+        text-align: center;
+}
+
+.clearfix::after{
+	content: "";
+	clear: both;
+	display: table;
+}

@@ -1,0 +1,140 @@
+
+.banner{
+	background-image: url(Melotte15NBStarsWeb3.jpg);
+	height: 100px;
+	width: 100%;
+	color: white;
+	margin: auto;
+	text-align: center;
+	padding-top: 30px;
+	font-family: 'Tangerine', serif;
+	font-size: 25px;
+}
+
+.gallery{
+	font-family: 'Tangerine', serif;
+	font-size: 35px;
+}
+
+h1{
+	font-size: 35px;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Tangerine', serif;
+	font-size: 35px;
+}
+
+h3{
+	text-align: left;
+}
+
+.content-middle{
+	margin: auto;
+	font-family: 'Tangerine', serif;
+	font-size: 35px;
+	text-align: center;
+}
+
+.content{
+	margin: auto;
+	display: inline;		
+}
+
+.content-left{
+	float: left;
+	width: 45%;
+}
+
+.content-right{
+	float: right;
+	width: 45%;
+}
+
+.new_account{
+	font-size: 15px;
+}
+
+.artist{
+	height: 500px;
+	width: 500px;
+	margin: auto;
+}
+
+.welcome{
+	text-align: center;
+}
+
+.viewers_disgression{
+	text-align: center;
+}
+
+.artwork{
+	display: inline-block;
+	height: 500px;
+	width: 500px;
+    margin-left: auto;
+	margin-right: auto;
+}
+
+.red{
+	background-color:red;
+	padding: 15px 32px;
+}
+
+.black{
+	background-color:black;
+	padding: 15px 32px;
+	text-align:center;
+	color: white;
+}
+
+.purple{
+	background-color:purple;
+	padding: 15px 32px;
+	text-align: center;
+}
+
+.current{
+	background-color:lightseagreen;
+}
+
+.viewers_disgression{
+	font-family: 'Tangerine', serif;
+	font-size: 35px;
+}
+
+.pink{
+	background-color:pink;
+	padding: 15px 32px;
+	text-align: center;
+}
+
+.index_image{
+	height: 600px;
+	width: 600px;
+	margin: auto;
+}
+
+button{
+	margin-right: 15%;
+	text-align: center;
+}
+
+.topPage{
+	color: black;
+	margin: auto;
+	text-align: center;
+	font-size: 15px;
+}
+
+h3{
+	text-align: center;
+}
+
+.gallery{
+	color: black;
+	margin: auto;
+	text-align: center;
+}
